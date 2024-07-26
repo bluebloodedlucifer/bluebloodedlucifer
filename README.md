@@ -6,9 +6,8 @@
 
 Curious to learn more about me? Keep scrolling. Otherwise, dive straight into the tech stack I'm currently weaving magic with.
 
-1. 🔭 I’m building a nice analytical 📊 tool called... Shhhhh!! I'll tell you later. Let's keep it quiet 🤫
+1. 🔭 I’m building a nice webtool 📊 tool called... Shhhhh!! I'll tell you later. Let's keep it quiet 🤫
 2. 🌱 I’m currently learning -\
-
   ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![image](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
@@ -21,7 +20,6 @@ Curious to learn more about me? Keep scrolling. Otherwise, dive straight into th
   ![image](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 3. 💬 Ask me me about anything related to -\
-
   ![image](https://img.shields.io/badge/HTML-ED8B00?style=for-the-badge&logo=html5&logoColor=white)
   ![image](https://img.shields.io/badge/CSS-0095D5?&style=for-the-badge&logo=css3&logoColor=white)
   ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
@@ -34,14 +32,12 @@ Curious to learn more about me? Keep scrolling. Otherwise, dive straight into th
 
 
 4. 🛠️ I have working Knowledge of-\
-
   ![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 5. 💡 Things that i am interested in-\
-
   ![image](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![image](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
   ![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -75,7 +71,6 @@ Curious to learn more about me? Keep scrolling. Otherwise, dive straight into th
 
 
 ### 🔗 Connect with me
-
   [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-panchal-805118218/)
   [![image](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/naughtypanda/)
   [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bluebloodedlucifer)
